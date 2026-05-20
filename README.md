@@ -9,6 +9,7 @@ Built entirely with modern Android development patterns, the application showcas
 
 | Gaming Dashboard | Discovery Hub | Review System |
 | --- | --- | --- |
+| <img src="assets/Discovery Hub_Home.JPG" width="250" alt="Discovery Screen"/> | <img src="assets/Dashboard.JPG" width="250" alt="Dashboard Screen"/>  |<img src="assets/ReviewSystem.JPG" width="250" alt="Reviews Screen"/> |
 
 
 ---
