@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Logyssey</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="tab_games">الألعاب</string>
+    <string name="tab_whats_new">الصحيفة</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_explore">استكشاف</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="nav_dashboard">نظرة عامة</string>
+
+    <!-- Dashboard screen -->
+    <string name="header_my_library">المكتبة</string>
+
+    <string name="label_stats">إحصائيات</string>
+    <string name="label_total_playtime">إجمالي وقت اللعب</string>
+    <string name="label_avg_rating">متوسط التقييمات</string>
+    <string name="label_preferences">ألعاب قد تفضلها</string>
+    <string name="your_revs">مراجعات</string>
+    <string name="label_dash">لوحة المعلومات</string>
+    <!-- Empty State -->
+    <string name="empty_dashboard">لا توجد بيانات بعد. ابدأ بتدوين الألعاب لتظهر إحصائياتك!</string>
+    <string name="Alsoempty_dashboard">رحلتك ستظهر هنا..</string>
+
+    <string name="dashboard_changes">تم حفظ التغييرات، يمكنك الإطلاع على لوحة المعلومات! </string>
+    <string name="dashboard_wanna_play">تمت إضافة اللعبة إلى قائمة "أرغب باللعب"!</string>
+    <string name="dashboard_Del">حذف المراجعة</string>
+    <string name="dashboard_Del_confirm">هل ترغب بحذف المراجعة لهذه اللعبة؟ لا يمكن الرجوع عند تنفيذ الأمر..</string>
+    <string name="btn_Del">حذف</string>
+    <string name="btn_Delcancel">تراجع</string>
+    <!-- Home Screen -->
+    <string name="cat_latest_releases">أحدث الإصدارات</string>
+    <string name="cat_popular">شائع بين اللاعبين</string>
+    <string name="cat_upcoming">إصدارات قادمة</string>
+    <string name="cat_similar">ألعاب مشابهة</string>
+    <string name="search_placeholder">بحث عن الألعاب...</string>
+
+    <!-- Game Detail Screen -->
+    <string name="label_release">تاريخ الإصدار: </string>
+    <string name="label_ps_rating">تقييم بلاي ستيشن: ★ </string>
+    <string name="label_steam_rating">تقييم ستيم: ★ </string>
+    <string name="label_genre">نوع اللعبة: </string>
+    <string name="btn_want_to_play">+ أرغب باللعب</string>
+    <string name="want_to_play">أرغب باللعب</string>
+    <string name="btn_log_action">تقييم، تدوين، مشاركة... والمزيد</string>
+    <string name="read_more">اقرأ المزيد...</string>
+    <string name="read_less">عرض أقل</string>
+    <string name="show_more">عرض الكل ...</string>
+    <string name="show_less">عرض أقل</string>
+
+    <string name="shareText">الق نظرة على تقييمي لهذه اللعبة على LOGYSSEY! </string>
+    <!-- Bottom Sheet / Add to Collection -->
+    <string name="sheet_title">أضف إلى مجموعتك</string>
+    <string name="list_favs">الألعاب المفضلة</string>
+    <string name="list_playing">قيد اللعب حالياً</string>
+    <string name="list_completed">ألعاب مكتملة</string>
+    <string name="label_your_rating">التقييم</string>
+    <string name="hint_review">اكتب مراجعة...</string>
+    <string name="label_playtime">وقت اللعب</string>
+    <string name="unit_hrs">ساعة</string>
+    <string name="btn_share_journey">شارك رحلتك</string>
+    <string name="btn_save_changes">حفظ التغييرات</string>
+    <!-- explore screen -->
+    <string name="label_explore">استكشاف</string>
+    <string name="hint_searchGames">ابحث عن الألعاب....</string>
+    <!-- Settings -->
+    <string name="title_app_settings">إعدادات التطبيق</string>
+    <string name="label_dark_mode">الوضع الداكن</string>
+    <string name="label_language">اللغة</string>
+    <string name="lang_en">الإنجليزية</string>
+    <string name="lang_ar">العربية</string>
+</resources>

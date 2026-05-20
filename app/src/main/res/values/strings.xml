@@ -1,0 +1,76 @@
+
+<resources>
+<string name="app_name" translatable="false">Logyssey</string>
+
+<!-- Navigation & Tabs -->
+<string name="tab_games">Games</string>
+<string name="tab_whats_new">Journal</string>
+<string name="nav_home">Home</string>
+<string name="nav_explore">Explore</string>
+<string name="nav_settings">Settings</string>
+    <string name="nav_dashboard">Dashboard</string>
+
+    <!-- Dashboard screen -->
+    <string name="header_my_library">Library</string>
+    <string name="label_stats">Gaming Stats</string>
+    <string name="label_total_playtime">Total Playtime</string>
+    <string name="label_avg_rating">Average Rating</string>
+    <string name="label_preferences">Games You Might Like</string>
+    <string name="your_revs">Reviews</string>
+    <string name="label_dash">Dashboard</string>
+    <!-- Empty State -->
+    <string name="empty_dashboard">No data yet. Start logging games to see your stats!</string>
+    <string name="Alsoempty_dashboard">Your gaming journey will appear here..</string>
+
+    <string name="dashboard_changes">Changes Saved, View in Your Dashboard!</string>
+    <string name="dashboard_wanna_play">Game Added to Your "Want to Play List"!</string>
+    <string name="dashboard_Del">Delete Review</string>
+    <string name="dashboard_Del_confirm">Are you sure you want to delete this review? This action cannot be undone.</string>
+    <string name="btn_Del">Delete</string>
+    <string name="btn_Delcancel">Cancel</string>
+
+
+    <!-- Home Screen -->
+<string name="cat_latest_releases">Latest Releases</string>
+<string name="cat_popular">Popular Among Gamers</string>
+<string name="cat_upcoming">Upcoming Releases</string>
+<string name="cat_similar">Similar Games</string>
+<string name="search_placeholder">Search Games...</string>
+
+<!-- Game Detail Screen -->
+
+<string name="label_release">Release:</string>
+<string name="label_ps_rating">Play Station Rating: ★ </string>
+<string name="label_steam_rating">Steam Rating: ★ </string>
+<string name="label_genre">Game Genre:</string>
+<string name="btn_want_to_play">+ Want to Play</string>
+    <string name="want_to_play">Want to Play</string>
+<string name="btn_log_action">Rate, Log, Share, Add to list... +more</string>
+<string name="read_more">Read more...</string>
+<string name="read_less">Read less</string>
+    <string name="show_more">Show more...</string>
+    <string name="show_less">Show less</string>
+    <string name="shareText">Check out my review for this game on Logyssey!</string>
+<!-- Bottom Sheet / Add to Collection -->
+<string name="sheet_title">Add to Your Collection</string>
+<string name="list_favs">Favorite Games</string>
+<string name="list_playing">Currently Playing</string>
+<string name="list_completed">Completed Games</string>
+<string name="label_your_rating">Rating</string>
+<string name="hint_review">Write a review...</string>
+<string name="label_playtime">Playtime</string>
+<string name="unit_hrs">hrs</string>
+<string name="btn_share_journey">Share Your Journey</string>
+<string name="btn_save_changes">Save Changes</string>
+    <!-- explore screen -->
+    <string name="label_explore">Explore</string>
+    <string name="hint_searchGames">Search Games....</string>
+
+
+<!-- Settings -->
+<string name="title_app_settings">App Settings</string>
+<string name="label_dark_mode">Dark Mode</string>
+    <string name="label_language">Language</string>
+    <string name="lang_en">English</string>
+    <string name="lang_ar">Arabic</string>
+</resources>
