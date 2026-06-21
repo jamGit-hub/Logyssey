@@ -34,14 +34,4 @@ Built entirely with modern Android development patterns, the application showcas
 
 ---
 
-## Getting Started
-
-Follow these steps to set up the project locally on your machine.
-
-### Prerequisites
-- **Android Studio** (Ladybug 2024.2.1 or newer recommended)
-- **Android SDK** (Target SDK 34 / Compiled SDK 34)
-- **Gradle** v8.0+
-
-### Installation & Setup
 
