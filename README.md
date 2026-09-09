@@ -5,7 +5,7 @@ Built entirely with modern Android development patterns, the application showcas
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Gaming Dashboard | Discovery Hub | Review System |
 | --- | --- | --- |
@@ -14,7 +14,7 @@ Built entirely with modern Android development patterns, the application showcas
 
 ---
 
-## Features✨
+## Features
 
 - **Personal Gaming Dashboard:** Track comprehensive gaming metrics at a glance, including total time played, average title ratings, and personalized user progress lists.
 - **Multilingual Support:** Fully localized interface supporting multiple languages seamlessly via standard Android localization practices.
